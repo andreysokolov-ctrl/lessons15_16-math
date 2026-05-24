@@ -10,7 +10,6 @@
 
 ```
 lab15-16/
-├── CMakeLists.txt
 ├── task1_stl/
 │   └── main.cpp                       # Задание 1: STL
 ├── task2_eigen/
